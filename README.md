@@ -14,7 +14,7 @@ Usage
 
 `distributed-file-system` can be run from the command line. It has three important files:
 
-`Client.java`. To act as a client, which will perform all `CRUD` file operations.
+`Client.java`: To act as a client, which will perform all `CRUD` file operations.
 
 ```
 To send: java Client put filepath masterIP masterport tcpPort yourIp
